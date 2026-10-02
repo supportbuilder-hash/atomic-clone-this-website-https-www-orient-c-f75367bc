@@ -10,6 +10,10 @@ export const navLinks: NavLink[] = [
   { label: "Blog", href: "/blog", key: "blog" },
   { label: "Products", href: "/products", key: "products" },
   { label: "Customer Support", href: "/support", key: "support" },
+  { label: "Warranty Registration", href: "/warranty-registration", key: "warrantyRegistration" },
+  { label: "News & Events", href: "/news-events", key: "newsEvents" },
+  { label: "Privacy Policy", href: "/privacy-policy", key: "privacyPolicy" },
+  { label: "Terms of Service", href: "/terms-of-service", key: "termsOfService" },
 ];
 
 export const BRAND_NAME = "Orient Electronics";
