@@ -1,0 +1,702 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "blog": "Blog",
+    "products": "Products",
+    "support": "Customer Support",
+    "shopNow": "Shop Now",
+    "searchLabel": "Search",
+    "menuLabel": "Open menu"
+  },
+  "footer": {
+    "tagline": "Technologically advanced home appliances for a finer lifestyle, trusted in Pakistani homes since 1957.",
+    "productsHeading": "Products",
+    "companyHeading": "Company",
+    "supportHeading": "Support",
+    "helplineLabel": "Helpline",
+    "hoursLabel": "08:00 AM to 05:00 PM, Monday to Saturday",
+    "copyrightText": "© 2026 Orient Electronics Pakistan. All rights reserved.",
+    "airConditioners": "Air Conditioners",
+    "refrigerators": "Refrigerators",
+    "waterDispensers": "Water Dispensers",
+    "ledTvs": "LED TVs",
+    "washingMachines": "Washing Machines",
+    "microwaveOvens": "Microwave Ovens",
+    "aboutUs": "About Us",
+    "blog": "Blog",
+    "productsLink": "Products",
+    "customerSupport": "Customer Support",
+    "warrantyInfo": "Warranty Information",
+    "faqs": "FAQs",
+    "contactUs": "Contact Us",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn"
+  },
+  "supportHero": {
+    "badge": "CUSTOMER SUPPORT",
+    "title": "We're here to help, every step of the way.",
+    "subtitle": "From warranty registration to technician visits, get fast answers and real support for every Orient appliance in your home.",
+    "ctaPrimary": "Find a Service Centre",
+    "helplineLabel": "Call our helpline",
+    "helplineValue": "0800-ORIENT",
+    "stats": [
+      {
+        "id": "hours",
+        "value": "08:00 - 17:00",
+        "label": "Helpline hours, Mon to Sat"
+      },
+      {
+        "id": "centres",
+        "value": "100+",
+        "label": "Service centres nationwide"
+      },
+      {
+        "id": "response",
+        "value": "48 hrs",
+        "label": "Average technician response"
+      }
+    ]
+  },
+  "contactChannels": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "Choose how you'd like to reach us",
+    "subtitle": "Whichever channel suits you, our support team is ready to help with repairs, orders, and warranty questions.",
+    "items": [
+      {
+        "id": "phone",
+        "title": "Phone Support",
+        "detail": "Speak directly with our helpline team for urgent repairs or quick product questions.",
+        "action": "Call 0800-ORIENT",
+        "href": "tel:0800674368",
+        "icon": "phone"
+      },
+      {
+        "id": "email",
+        "title": "Email Support",
+        "detail": "Send us the details of your issue and attach photos. We typically reply within one business day.",
+        "action": "Email support team",
+        "href": "mailto:support@orient.com.pk",
+        "icon": "mail"
+      },
+      {
+        "id": "chat",
+        "title": "Live Chat",
+        "detail": "Chat with a support representative in real time for order tracking and troubleshooting.",
+        "action": "Start a chat",
+        "href": "#",
+        "icon": "chat"
+      },
+      {
+        "id": "visit",
+        "title": "Visit a Service Centre",
+        "detail": "Walk in to any Orient-authorised centre for hands-on diagnostics and genuine spare parts.",
+        "action": "Find a location",
+        "href": "#service-locator",
+        "icon": "locate"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FREQUENTLY ASKED",
+    "title": "Answers to common questions",
+    "subtitle": "Can't find what you're looking for? Reach out to our support team directly.",
+    "items": [
+      {
+        "id": "warranty-period",
+        "question": "How long is the warranty on Orient appliances?",
+        "answer": "Most Orient appliances carry a one-year warranty on parts and labour, with select air conditioner compressors covered for up to five years. Exact terms are printed on your warranty card."
+      },
+      {
+        "id": "register-warranty",
+        "question": "How do I register my product's warranty?",
+        "answer": "Register online through the warranty registration page using your invoice number and serial number within 15 days of purchase to activate full coverage."
+      },
+      {
+        "id": "book-technician",
+        "question": "How do I book a technician visit?",
+        "answer": "Call our helpline or visit your nearest service centre with your warranty card. We'll schedule a technician visit, usually within 48 hours in major cities."
+      },
+      {
+        "id": "spare-parts",
+        "question": "Are genuine spare parts available after warranty ends?",
+        "answer": "Yes, genuine Orient spare parts remain available through our authorised service network even after your warranty period has expired, at standard pricing."
+      },
+      {
+        "id": "out-of-warranty",
+        "question": "What if my appliance is out of warranty?",
+        "answer": "Our service centres still offer paid repairs, diagnostics, and maintenance for out-of-warranty appliances using genuine parts and trained technicians."
+      },
+      {
+        "id": "track-complaint",
+        "question": "How can I track my service complaint?",
+        "answer": "Every service request is issued a complaint number at booking. Share this number with our helpline team for a live status update at any time."
+      }
+    ]
+  },
+  "serviceLocator": {
+    "eyebrow": "FIND US",
+    "title": "Service centres across Pakistan",
+    "subtitle": "Filter by city to find your nearest Orient-authorised service centre, complete with address, phone, and working hours.",
+    "centers": []
+  },
+  "warrantyInfo": {
+    "eyebrow": "WARRANTY & COVERAGE",
+    "title": "Buy with confidence",
+    "subtitle": "Every Orient appliance is backed by a nationwide warranty and a dedicated service network, so help is always close by.",
+    "cta": "Register Warranty",
+    "benefits": [
+      {
+        "id": "compressor",
+        "title": "Extended compressor cover",
+        "detail": "Select air conditioners and refrigerators carry up to five years of compressor warranty."
+      },
+      {
+        "id": "first-service",
+        "title": "Free first service",
+        "detail": "New installations include a complimentary first maintenance visit within the first year."
+      },
+      {
+        "id": "genuine-parts",
+        "title": "Genuine spare parts",
+        "detail": "Only manufacturer-approved components are used across our entire service network."
+      },
+      {
+        "id": "nationwide-network",
+        "title": "Nationwide technician network",
+        "detail": "Trained technicians are available in over 100 cities and towns across Pakistan."
+      }
+    ]
+  },
+  "hero": {
+    "titleLine1": "Entertainment,",
+    "titleLine2": "Elevated.",
+    "subtitle": "Smart viewing with stunning clarity and seamless apps, built for Pakistani homes since 1957.",
+    "ctaPrimary": "Shop Now",
+    "ctaSecondary": "Explore Range"
+  },
+  "products": {
+    "eyebrow": "Our Product Range",
+    "heading": "Innovation For Every Room",
+    "subtitle": "From cooling to entertainment, Orient brings you technologically advanced appliances designed for the modern Pakistani home.",
+    "exploreLabel": "Explore Range",
+    "items": [
+      {
+        "id": "air-conditioners",
+        "title": "Air Conditioners",
+        "description": "Dynamic DC Inverter Technology with intelligent cooling that saves energy and maximizes comfort.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/52539e46751f4bf88413cfdedb0e36b9.jpg",
+        "tags": [
+          "Ultron",
+          "Megatron",
+          "Smartron",
+          "Cooltron"
+        ]
+      },
+      {
+        "id": "refrigerators",
+        "title": "Refrigerators",
+        "description": "Direct Cool technology with elegant glass-door designs, keeping food fresher for longer with precise temperature control.",
+        "image": "https://cdn.stocksnap.io/img-thumbs/960w/JQECRTOLPK.jpg",
+        "tags": [
+          "Marvel",
+          "Grand",
+          "Crystal",
+          "Flare"
+        ]
+      },
+      {
+        "id": "water-dispensers",
+        "title": "Water Dispensers",
+        "description": "Hot, cold, and room temperature water on demand, in stylish glass-door designs that complement any interior.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/abb54591fdab4f86b17ffbb68113098b.jpg",
+        "tags": [
+          "Icon",
+          "Crystal",
+          "Marvel",
+          "Flare"
+        ]
+      },
+      {
+        "id": "led-tvs",
+        "title": "LED TVs",
+        "description": "Immersive 4K viewing with Dolby Audio, Google Play Store, and bezel-less designs from 32 inch to 65 inch screens.",
+        "image": "https://cdn.stocksnap.io/img-thumbs/960w/32PHX17FRE.jpg",
+        "tags": [
+          "Vision",
+          "Nexus",
+          "Titanium",
+          "Fusion"
+        ]
+      },
+      {
+        "id": "washing-machines",
+        "title": "Washing Machines",
+        "description": "Fully automatic washing machines with DDM inverter technology for gentle cleaning and energy efficiency.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/2dbe80384ff94503bad11da81214c35a.jpg",
+        "tags": [
+          "Twister",
+          "Storm",
+          "Ultron"
+        ]
+      },
+      {
+        "id": "microwave-ovens",
+        "title": "Microwave Ovens",
+        "description": "Versatile cooking with preset functions for everything from reheating to grilling, in capacities from 20L to 62L.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e5ab8675047f49a6a74ea04c257c7d15.jpg",
+        "tags": [
+          "20L Solo",
+          "23L Grill",
+          "30L",
+          "62L"
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "eyebrow": "See The Difference",
+    "heading": "Inverter Vs Conventional",
+    "subtitle": "Compare energy consumption and comfort side by side.",
+    "asLowAs": "As Low As",
+    "items": [
+      {
+        "label": "Conventional AC",
+        "watt": "3,800 W",
+        "bill": "Monthly bill: Rs. 18,500"
+      },
+      {
+        "label": "Orient DC Inverter",
+        "watt": "1,200 W",
+        "bill": "Monthly bill: Rs. 5,900"
+      }
+    ]
+  },
+  "compare": {
+    "badge": "Side-by-Side",
+    "headingLine1": "Compare. Decide.",
+    "headingLine2": "Buy with confidence.",
+    "subtitle": "Stack any Orient products against each other and see what really sets them apart: energy, features, and price, in one clean side-by-side view.",
+    "categories": [
+      "Air Conditioners",
+      "Refrigerators",
+      "Water Dispensers",
+      "LED TVs",
+      "Washing Machines",
+      "Microwave Ovens"
+    ],
+    "ctaLabel": "Start Comparing"
+  },
+  "warranty": {
+    "title": "Buy with confidence",
+    "subtitle": "Nationwide warranty and service network across Pakistan, every Orient appliance is backed by a dedicated service team and registered helpline.",
+    "ctaLabel": "Register Warranty"
+  },
+  "trust": {
+    "eyebrow": "What People Say",
+    "heading": "Trusted By Millions Of Pakistani Families",
+    "reviewsHeading": "Latest Reviews",
+    "reviews": [
+      {
+        "quote": "The Megatron Titanium is incredible. The app lets me cool the house before I get home and bills dropped noticeably.",
+        "name": "Ali Khan",
+        "location": "Lahore"
+      },
+      {
+        "quote": "Our Crystal glass-door fridge is both beautiful and efficient. Three years in, still zero issues.",
+        "name": "Fatima Rasheed",
+        "location": "Karachi"
+      },
+      {
+        "quote": "Switched to an Orient Titanium 55 inch TV and the picture quality rivals sets costing far more.",
+        "name": "Hassan Malik",
+        "location": "Islamabad"
+      }
+    ],
+    "certHeading": "Certifications & Awards",
+    "certifications": [
+      "ISO 9001 Quality Management Certified",
+      "ISO 14001 Environmental Management System Certified",
+      "PSQC Certified",
+      "Most Potential Growth Award by AUX"
+    ]
+  },
+  "partners": {
+    "eyebrow": "International Technology Partners",
+    "items": [
+      "Skyworth",
+      "AUX Air Conditioner"
+    ]
+  },
+  "quality": {
+    "eyebrow": "Internationally Acclaimed",
+    "heading": "Quality Without Compromise",
+    "subtitle": "50+ years of excellence. Every Orient product undergoes rigorous international-standard testing before it reaches your home.",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Years of Excellence"
+      },
+      {
+        "value": "100+",
+        "label": "Service Centres"
+      },
+      {
+        "value": "Wide",
+        "label": "Range of Home Appliances"
+      }
+    ]
+  },
+  "news": {
+    "eyebrow": "News & Events",
+    "heading": "Latest from Orient",
+    "viewAllLabel": "View All News",
+    "items": [
+      {
+        "date": "07 May, 2025",
+        "title": "Orient Electronics Honored with Most Potential Growth Award by AUX",
+        "excerpt": "Recognized for rapid expansion and consistent quality across the home appliance portfolio.",
+        "image": "https://live.staticflickr.com/65535/52119761521_28cac61477_b.jpg"
+      },
+      {
+        "date": "23 Apr, 2025",
+        "title": "The Most Advanced Air Conditioners Launched: Megatron T3 IoT Series",
+        "excerpt": "Internationally advanced air conditioners engineered for ultimate performance and finer lifestyle.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/c6a0e181e87542e6b22a3b17ec15a783.jpg"
+      },
+      {
+        "date": "20 Mar, 2025",
+        "title": "Orient Honours Its High Achievers at a Grand Dealers Convention",
+        "excerpt": "Top-performing partners celebrated at a nationwide gathering recognizing outstanding sales performance.",
+        "image": "https://live.staticflickr.com/65535/54244802347_ce6a1f8bd2_b.jpg"
+      },
+      {
+        "date": "18 Mar, 2025",
+        "title": "First Time in Pakistan: Orient Introduces an Unbreakable Google-Licensed LED TV",
+        "excerpt": "A new era of durable, Google-certified smart television technology arrives in local showrooms.",
+        "image": "https://cdn.stocksnap.io/img-thumbs/960w/875XI7UPW9.jpg"
+      }
+    ]
+  },
+  "featured": {
+    "heading": "Featured this week",
+    "items": [
+      {
+        "badge": "18000 BTU - 1.5 Ton - Inverter",
+        "series": "Smartron Series",
+        "name": "Pro 18C Ultra Silver T3",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d8bf57ca2ebb4889b04c8b688f35dbfc.jpg"
+      },
+      {
+        "badge": "18000 BTU - 1.5 Ton - Inverter",
+        "series": "Smartron Series",
+        "name": "Pro 18C Ultra Golden T3",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/4be5dd1cee4545cab1bca2cded772810.jpg"
+      },
+      {
+        "badge": "14000 BTU - 1 Ton - Cool Only",
+        "series": "Cooltron Series",
+        "name": "Ice 14C Gold White T3",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b191e4e081cc44b990791c475ae9fe01.jpg"
+      },
+      {
+        "badge": "14000 BTU - 1 Ton - Cool Only",
+        "series": "Cooltron Series",
+        "name": "Snow 14C Chrome White T3",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/0d42066a5e244074bef74768b1fc5ff6.jpg"
+      }
+    ]
+  },
+  "aboutHero": {
+    "eyebrow": "Our Story",
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "About Us",
+    "title": "Serving Pakistani Homes Since 1957",
+    "subtitle": "From a small trading house to the country's most trusted name in home appliances, Orient has spent over six decades engineering comfort for every Pakistani family.",
+    "cta": "Explore Our Products"
+  },
+  "aboutStory": {
+    "eyebrow": "Who We Are",
+    "title": "Six Decades of Engineering Comfort",
+    "paragraph1": "Orient Electronics began in 1957 with a simple promise: bring technologically advanced appliances within reach of every Pakistani household. What started with a handful of products has grown into a full portfolio spanning air conditioners, refrigerators, LED TVs, washing machines, water dispensers, and microwave ovens.",
+    "paragraph2": "Today, our manufacturing facilities combine international technology partnerships with local engineering talent, letting us build appliances that are tested against global standards while being priced and designed for Pakistani homes and climates.",
+    "paragraph3": "Every product that leaves our plants carries the same commitment that founded the company nearly seven decades ago, reliability first, innovation always, and service that doesn't stop at the sale.",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Years of Excellence"
+      },
+      {
+        "value": "100+",
+        "label": "Service Centres"
+      },
+      {
+        "value": "Wide",
+        "label": "Range of Home Appliances"
+      }
+    ]
+  },
+  "aboutValues": {
+    "eyebrow": "What Drives Us",
+    "title": "Mission & Values",
+    "subtitle": "Everything we build is guided by a handful of principles that haven't changed since 1957.",
+    "items": [
+      {
+        "title": "Innovation First",
+        "description": "We invest in DC inverter, IoT, and smart technologies so every Orient home gets tomorrow's comfort today."
+      },
+      {
+        "title": "Built to Last",
+        "description": "Our products undergo rigorous international-standard testing before a single unit reaches a customer's home."
+      },
+      {
+        "title": "Customer Trust",
+        "description": "A nationwide service network and dedicated helpline mean support is never far from any Orient owner."
+      },
+      {
+        "title": "Energy Conscious",
+        "description": "Inverter technology across our range is designed to cut electricity bills without compromising performance."
+      },
+      {
+        "title": "Quality Assured",
+        "description": "ISO 9001 and ISO 14001 certifications back every stage of our manufacturing and environmental process."
+      }
+    ]
+  },
+  "aboutPartners": {
+    "eyebrow": "Global Collaboration",
+    "title": "International Technology Partners",
+    "subtitle": "We partner with world-leading manufacturers to bring globally proven technology to the Pakistani market.",
+    "items": [
+      {
+        "name": "SKYWORTH",
+        "description": "Pakistan's first unbreakable, Google-licensed LED TVs, bringing a globally recognised entertainment brand to local homes."
+      },
+      {
+        "name": "AUX",
+        "description": "A strategic air conditioning partnership that powers our DC inverter range with advanced cooling and IoT technology."
+      }
+    ]
+  },
+  "aboutTeam": {
+    "eyebrow": "Behind The Brand",
+    "title": "The Teams Behind Every Orient Product",
+    "subtitle": "Dedicated teams across engineering, manufacturing, and support work together to keep Orient appliances running in millions of homes.",
+    "items": [
+      {
+        "title": "Engineering & R&D",
+        "description": "Designing and refining inverter, IoT, and smart appliance technology tailored for Pakistani households."
+      },
+      {
+        "title": "Manufacturing Excellence",
+        "description": "State-of-the-art production lines that meet international quality benchmarks on every unit produced."
+      },
+      {
+        "title": "Nationwide Service Network",
+        "description": "Over 100 service centres across the country, staffed by trained technicians ready to support every customer."
+      },
+      {
+        "title": "Customer Care",
+        "description": "A dedicated helpline and warranty team committed to resolving issues quickly and keeping customers satisfied."
+      }
+    ]
+  },
+  "aboutCta": {
+    "title": "Experience the Orient Difference",
+    "subtitle": "Register your warranty, find your nearest service centre, or explore the full range of appliances built for your home.",
+    "primaryCta": "Contact Support",
+    "secondaryCta": "Browse Products"
+  },
+  "blogPage": {
+    "eyebrow": "News & Events",
+    "heading": "Latest from Orient",
+    "subheading": "Product launches, dealer events, and company milestones from Pakistan's home appliance leader since 1957.",
+    "featuredLabel": "Featured Story",
+    "readStory": "Read the full story",
+    "moreHeading": "More from the newsroom",
+    "readMore": "Read more",
+    "filterAll": "All",
+    "emptyState": "No stories in this category yet. Check back soon.",
+    "newsletterEyebrow": "Stay Updated",
+    "newsletterHeading": "Get Orient news in your inbox",
+    "newsletterSubheading": "Product launches, dealer events, and service updates, delivered straight to you. No spam, unsubscribe anytime.",
+    "newsletterPlaceholder": "Enter your email address",
+    "newsletterButton": "Subscribe",
+    "newsletterSuccess": "You're subscribed. Thanks for joining us.",
+    "newsletterDisclaimer": "By subscribing you agree to receive occasional emails from Orient Electronics Pakistan.",
+    "featured": {
+      "id": "aux-growth-award",
+      "date": "07 May 2025",
+      "title": "Orient Electronics Honored with \"Most Potential Growth Award\" by AUX",
+      "excerpt": "Orient's long-standing technology partnership with AUX was recognised at an international ceremony celebrating the fastest-growing distribution partners across the region, a milestone that reflects a decade of shared engineering and manufacturing investment.",
+      "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/3905d2b7c8b648a4bf81a5e0db832000.jpg",
+      "category": "Awards"
+    },
+    "posts": [
+      {
+        "id": "megatron-t3-launch",
+        "date": "23 Apr 2025",
+        "title": "The Most Advanced Air Conditioners Launched: Megatron T3 IoT Series",
+        "excerpt": "Orient's new Megatron T3 series brings IoT connectivity and DC Inverter efficiency together, letting owners control cooling remotely from a smartphone before they even step through the door.",
+        "image": "https://live.staticflickr.com/625/21116066324_09da770d3f_b.jpg",
+        "category": "Product Launch"
+      },
+      {
+        "id": "dealers-convention-thailand",
+        "date": "20 Mar 2025",
+        "title": "Orient Honours Its High Achievers at a Grand Dealers' Convention in Thailand",
+        "excerpt": "Top-performing dealers from across Pakistan were flown to Thailand for a three-day convention recognising their contribution to Orient's nationwide retail network.",
+        "image": "https://live.staticflickr.com/65535/55151087413_a7615f52f8_b.jpg",
+        "category": "Company News"
+      },
+      {
+        "id": "unbreakable-google-tv",
+        "date": "18 Mar 2025",
+        "title": "First Time in Pakistan: Orient Introduces an Unbreakable Google-Licensed LED TV",
+        "excerpt": "Built with reinforced panel technology and officially licensed Google TV software, the new Titanium series brings app-rich entertainment to Pakistani living rooms with added durability.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/378d7cfc304a42cdbbe78f70c177d042.jpg",
+        "category": "Product Launch"
+      },
+      {
+        "id": "skyworth-partnership",
+        "date": "18 Mar 2025",
+        "title": "Orient Launches SKYWORTH: A Global Top-Brand Television for Pakistan",
+        "excerpt": "A new manufacturing and distribution partnership brings SKYWORTH's global television lineup to Pakistan, assembled locally and backed by Orient's own service network.",
+        "image": "https://cdn.stocksnap.io/img-thumbs/960w/ZI905NZJY1.jpg",
+        "category": "Partnership"
+      },
+      {
+        "id": "service-network-expansion",
+        "date": "02 Feb 2025",
+        "title": "Orient Expands Its Nationwide Service Network with New Technician Hubs",
+        "excerpt": "New service centres across secondary cities mean faster warranty claims and on-site repairs, part of Orient's continued investment in after-sales support.",
+        "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8f6ff11bc9e3486ab9e0c62bd2bb438b.jpg",
+        "category": "Company News"
+      }
+    ]
+  },
+  "productsPage": {
+    "hero": {
+      "eyebrow": "Product Catalog",
+      "title": "Appliances engineered for every Pakistani home",
+      "description": "Explore Orient's full range of air conditioners, refrigerators, water dispensers, LED TVs, washing machines and microwave ovens. Filter by category, compare specifications side by side, and find the appliance that fits your home."
+    },
+    "filter": {
+      "all": "All Products"
+    },
+    "categories": [
+      "Air Conditioners",
+      "Refrigerators",
+      "Water Dispensers",
+      "LED TVs",
+      "Washing Machines",
+      "Microwave Ovens"
+    ],
+    "products": [
+      {
+        "id": "ac-super-inverter",
+        "name": "Super Inverter 1.5 Ton Split AC",
+        "series": "Super Inverter Series",
+        "category": "Air Conditioners",
+        "image": "https://picsum.photos/seed/909e168487d7/800/600",
+        "specs": [
+          "Inverter compressor",
+          "Low voltage startup",
+          "4-way air swing",
+          "Rotary operation"
+        ]
+      },
+      {
+        "id": "fridge-french-door",
+        "name": "Marvella French Door Refrigerator",
+        "series": "Marvella Series",
+        "category": "Refrigerators",
+        "image": "https://picsum.photos/seed/2a6bbaf65ea3/800/600",
+        "specs": [
+          "Twin cooling system",
+          "Frost-free operation",
+          "LED interior lighting",
+          "Adjustable glass shelves"
+        ]
+      },
+      {
+        "id": "dispenser-ro",
+        "name": "OWD-305 Water Dispenser",
+        "series": "OWD Series",
+        "category": "Water Dispensers",
+        "image": "https://picsum.photos/seed/02bfce033c9b/800/600",
+        "specs": [
+          "Hot and cold taps",
+          "Child safety lock",
+          "Compact countertop body",
+          "Stainless steel tank"
+        ]
+      },
+      {
+        "id": "led-tv-55",
+        "name": "55-Inch 4K Smart LED TV",
+        "series": "Smart Vision Series",
+        "category": "LED TVs",
+        "image": "https://picsum.photos/seed/e2d6c72be6af/800/600",
+        "specs": [
+          "4K Ultra HD panel",
+          "Built-in smart apps",
+          "Slim bezel design",
+          "HDMI and USB ports"
+        ]
+      },
+      {
+        "id": "washer-automatic",
+        "name": "9kg Fully Automatic Washing Machine",
+        "series": "AquaWash Series",
+        "category": "Washing Machines",
+        "image": "https://picsum.photos/seed/23c97e07c9df/800/600",
+        "specs": [
+          "Front-load drum",
+          "Multiple wash programs",
+          "Quiet inverter motor",
+          "Child lock control"
+        ]
+      },
+      {
+        "id": "microwave-grill",
+        "name": "25L Grill Microwave Oven",
+        "series": "ChefPro Series",
+        "category": "Microwave Ovens",
+        "image": "https://picsum.photos/seed/abc54a36d953/800/600",
+        "specs": [
+          "Grill and convection modes",
+          "Digital control panel",
+          "Auto-cook menus",
+          "Easy-clean interior"
+        ]
+      }
+    ],
+    "comparison": {
+      "title": "Compare appliances side by side",
+      "description": "Add up to three products from the catalog above to line up their series, category and specifications in one view.",
+      "selectPrompt": "Browse the catalog",
+      "categoryLabel": "Details",
+      "emptyState": "No products selected yet. Choose up to three items from the catalog to start comparing.",
+      "specsHeader": "Key Specifications",
+      "seriesHeader": "Series",
+      "categoryHeader": "Category",
+      "addButton": "Compare",
+      "removeButton": "Remove",
+      "maxReached": "You can compare up to three products at a time."
+    },
+    "featured": {
+      "eyebrow": "Featured Series",
+      "title": "Super Inverter: cooling that adapts to your home",
+      "description": "Our Super Inverter air conditioners adjust compressor speed in real time, delivering steady comfort while keeping power consumption low, even during long Pakistani summers and unstable voltage conditions.",
+      "cta": "Browse Air Conditioners"
+    },
+    "cta": {
+      "title": "Need help choosing the right appliance?",
+      "description": "Our support team can walk you through specifications, warranty coverage and installation options for any product in the Orient lineup.",
+      "primary": "Visit Customer Support",
+      "secondary": "0800-674368"
+    }
+  }
+}
